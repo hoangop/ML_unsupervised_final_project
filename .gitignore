@@ -28,6 +28,9 @@ ENV/
 env.bak/
 venv.bak/
 
+# Remove venv from tracking if already added
+venv/
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
