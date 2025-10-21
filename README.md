@@ -1,4 +1,4 @@
-# ML_supervised_final_project
+# ML_unsupervised_final_project
 The notebook file path: notebook/final_project.ipynb
 
-Removed grocery_transactions.csv as project requirement
+
